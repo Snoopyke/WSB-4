@@ -1,0 +1,99 @@
+{
+  "$type": "Workers.Data.Company, Workers.Data",
+  "Employees": {
+    "$type": "System.Collections.Generic.List`1[[Workers.Data.Employee, Workers.Data]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "Workers.Data.Employee, Workers.Data",
+        "EmployeeId": 638299678988063021,
+        "Name": "Bob",
+        "Position": "Technician",
+        "HourlyRate": 18
+      },
+      {
+        "$type": "Workers.Data.Employee, Workers.Data",
+        "EmployeeId": 638299678988063022,
+        "Name": "Sarah",
+        "Position": "Designer",
+        "HourlyRate": 22
+      },
+      {
+        "$type": "Workers.Data.Employee, Workers.Data",
+        "EmployeeId": 638299678988063023,
+        "Name": "Mike",
+        "Position": "Developer",
+        "HourlyRate": 30
+      },
+      {
+        "$type": "Workers.Data.Employee, Workers.Data",
+        "EmployeeId": 638299678988063024,
+        "Name": "Linda",
+        "Position": "Analyst",
+        "HourlyRate": 28
+      },
+      {
+        "$type": "Workers.Data.Employee, Workers.Data",
+        "EmployeeId": 638299678988063025,
+        "Name": "Chris",
+        "Position": "Sales",
+        "HourlyRate": 15
+      },
+      {
+        "$type": "Workers.Data.Employee, Workers.Data",
+        "EmployeeId": 638299678988063026,
+        "Name": "Emily",
+        "Position": "HR",
+        "HourlyRate": 18
+      },
+      {
+        "$type": "Workers.Data.Employee, Workers.Data",
+        "EmployeeId": 638299678988063027,
+        "Name": "David",
+        "Position": "Accountant",
+        "HourlyRate": 23
+      },
+      {
+        "$type": "Workers.Data.Employee, Workers.Data",
+        "EmployeeId": 638299678988063028,
+        "Name": "Julia",
+        "Position": "Marketing",
+        "HourlyRate": 19
+      },
+      {
+        "$type": "Workers.Data.Employee, Workers.Data",
+        "EmployeeId": 638299678988063029,
+        "Name": "Paul",
+        "Position": "Consultant",
+        "HourlyRate": 25
+      },
+      {
+        "$type": "Workers.Data.Employee, Workers.Data",
+        "EmployeeId": 638299678988063030,
+        "Name": "Helen",
+        "Position": "Supervisor",
+        "HourlyRate": 21
+      },
+      {
+        "$type": "Workers.Data.Employee, Workers.Data",
+        "EmployeeId": 638299678988063031,
+        "Name": "George",
+        "Position": "Customer Support",
+        "HourlyRate": 17
+      },
+      {
+        "$type": "Workers.Data.Employee, Workers.Data",
+        "EmployeeId": 638299678988063032,
+        "Name": "Olivia",
+        "Position": "Quality Assurance",
+        "HourlyRate": 22
+      },
+      {
+        "$type": "Workers.Data.Manager, Workers.Data",
+        "Bonus": 220,
+        "EmployeeId": 638302479928235211,
+        "Name": "Bartek",
+        "Position": "Manager",
+        "HourlyRate": 31
+      }
+    ]
+  }}
