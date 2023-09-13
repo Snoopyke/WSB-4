@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iGHrPCMOX4xPDVzB9bYb56x7gIUOXxLRiVQD0P6+Ro4beEVHgxMzkdvVhksnXiS7C5a59Apk8yfGvO+CIpphwg==",
+  "success": true,
+  "projectFilePath": "D:\\podrabotka\\Annonym\\WSB-4\\Workers\\Workers.Gui\\Workers.Gui.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sokur\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

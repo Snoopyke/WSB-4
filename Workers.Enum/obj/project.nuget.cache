@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ypCqaLVmXF1GfcgsxKJINlUsB5tAvacafmpbsSqxE3vWJL2aHX7JVnfRnyqvVElqWyQXx4oRg5ydJ/budLG7Ng==",
+  "success": true,
+  "projectFilePath": "D:\\podrabotka\\Annonym\\WSB-4\\Workers\\Workers.Enum\\Workers.Enum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sokur\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
